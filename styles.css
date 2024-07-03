@@ -157,7 +157,7 @@ footer {
 /* Responsive Styling */
 @media (max-width: 600px) {
     #container h1 {
-        font-size: 1.8rem;
+        font-size: 1.4rem;
         margin-bottom: 15px;
         letter-spacing: 1px;
         padding: 0 15px;
